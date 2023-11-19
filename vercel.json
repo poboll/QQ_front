@@ -1,7 +1,7 @@
 {
     "github": {
         "silent": true
-    }
+    },
     "rewrites": [
         {
             "source": "/(.*)", 
