@@ -16,7 +16,7 @@
                         :src="require('@/assets/images/my_profile.jpg')"
                         @click="openMyCard()"
                         style="border:2px solid white; float:left; margin-right:15px;" />
-                    <span style="font-size:18px;">朽木</span>
+                    <span style="font-size:18px;">喵不二</span>
                     <van-icon :name="require('@/assets/icon/icon_side_二维码.png')" size="20" style="float:right; padding:0 5px;" /><br>
                     <van-image :src="require('@/assets/images/qq等级.png')" style="width:170px;" /><br>
                     <van-icon :name="require('@/assets/icon/icon_side_个性签名.png')" size="15" />
@@ -84,7 +84,7 @@ export default {
         },
         // 打开我的个性名片
         openMyCard() {
-            this.$router.push('/card?profile=my_profile.jpg&name=朽木&qq=1164585349&gender=男&age=21&birth_month=10&birth_day=22&constellation=天秤&place=广东广州&sign=个性签名');
+            this.$router.push('/card?profile=my_profile.jpg&name=喵不二&qq=83876519&gender=男&age=21&birth_month=11&birth_day=11&constellation=天蝎&place=广东广州&sign=个性签名');
         }
     }
 }
