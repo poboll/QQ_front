@@ -1,5 +1,9 @@
 # QQ_front
 
+[![Deploy with Vercel](https://img.shields.io/badge/Vercel-部署-00CCCC.svg?logo=vercel)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpoboll%2FQQ_front&project-name=QQ_front&repository-name=QQ_front)
+[![Deploy with Railway](https://img.shields.io/badge/MidjourneyProxy-Railway部署-009900.svg?logo=railway)](https://github.com/poboll/QQ_front/railway-start.md)
+
+
 ## 简介
 
 仿手机QQ网页，使用HTML、CSS、JavaScript+Vue3，以前端网页的形式实现手机QQ基本界面和功能。
